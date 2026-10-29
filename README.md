@@ -1,4 +1,4 @@
-# Mobile Mall Darbhanga — Phase 1 (Frontend)
+# Mobile Mall Darbhanga 
 
 Next.js 14 (App Router) + TypeScript + Tailwind. UI recreated from the live site and screenshots; data is read
 through a typed service layer so the FastAPI + PostgreSQL backend can be plugged in without touching components.
